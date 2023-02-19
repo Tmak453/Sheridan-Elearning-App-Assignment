@@ -6,4 +6,4 @@ This is a sheridan course app in which students can login to access their course
 - Watch live lectures online through the app<br>
 - Access content without having to be connected to wifi<br>
 - Allow the user to customize the app more freely such as layout<br>
-- 
+- Educational games where the main purpose is to learn from them
