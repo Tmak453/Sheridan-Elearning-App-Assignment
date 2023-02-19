@@ -7,5 +7,6 @@ This is a sheridan course app in which students can login to access their course
 - Access content without having to be connected to wifi<br>
 - Allow the user to customize the app more freely such as layout<br>
 - Educational games where the main purpose is to learn from them
-
-<a href="https://www.figma.com/file/XvkL4Akup3MmAOy5Uzf2oR/Assignment_2_TylerM?node-id=0%3A1&t=V3KFKxs95VKfqW6n-1">Figma Design Link</a>
+<br>
+<h2>Figma Design</h2>
+<a href="https://www.figma.com/file/XvkL4Akup3MmAOy5Uzf2oR/Assignment_2_TylerM?node-id=0%3A1&t=V3KFKxs95VKfqW6n-1">Sheridan Elearning App</a>
