@@ -16,7 +16,7 @@ This is a sheridan course app in which students can login to access their course
 
 <Table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/59581810/219962974-9695df79-b419-4add-995b-bc8065558d4f.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/59581810/219964905-dd28015f-49ff-471d-92a5-2a814e03d951.png"></td>
     <td><img src="https://user-images.githubusercontent.com/59581810/219963089-3b2510dd-f685-4011-9bae-505ea4ac7092.png"></td>
     <td><img src="https://user-images.githubusercontent.com/59581810/219963341-451250dc-09fe-4081-a88d-8948954d193d.png"></td>
     <td><img src="https://user-images.githubusercontent.com/59581810/219963406-440ed72e-9107-47c1-a312-544909f19276.png"></td>
@@ -37,6 +37,7 @@ This is a sheridan course app in which students can login to access their course
     <td><img src="https://user-images.githubusercontent.com/59581810/219964086-4adc221c-e8ac-4f25-895e-d6178eced310.png"></td>
   </tr>
  
+
 
 
 
