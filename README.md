@@ -10,3 +10,6 @@ This is a sheridan course app in which students can login to access their course
 <br>
 <h2>Figma Design</h2>
 <a href="https://www.figma.com/file/XvkL4Akup3MmAOy5Uzf2oR/Assignment_2_TylerM?node-id=0%3A1&t=V3KFKxs95VKfqW6n-1">Sheridan Elearning App</a>
+
+<br><br>
+![Login](https://user-images.githubusercontent.com/59581810/219962779-8bc79508-da43-4b0a-af7d-d8184b4a0a25.png)
