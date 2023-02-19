@@ -11,7 +11,8 @@ This is a sheridan course app in which students can login to access their course
 <br>
 <h2>Figma Design</h2>
 <a href="https://www.figma.com/file/XvkL4Akup3MmAOy5Uzf2oR/Assignment_2_TylerM?node-id=0%3A1&t=V3KFKxs95VKfqW6n-1">Sheridan Elearning App</a>
-
+<br>
+<a href="https://youtu.be/OCwydwKx7_Y">Demo Video</a>
 <br><br>
 
 <Table>
